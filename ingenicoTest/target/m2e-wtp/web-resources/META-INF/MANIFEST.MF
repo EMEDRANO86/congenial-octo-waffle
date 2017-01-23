@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_97
+Built-By: C07746A
+Created-By: Maven Integration for Eclipse
+
